@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J1013</title>
+    <link rel="stylesheet" href="MY.css">
+  </head> 
+<body>                                              
+  <div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="CS-I/index.html">CS-I</a>
+    <div class="dropdown">
+      <button class="dropbtn">CS-I Journals
+	<i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+	<a href="J1002.html">J1002</a>
+	<a href="J1006.html">J1006</a>
+	<a href="J1012.html">J1012</a>
+	<a href="J1013.html">J1013</a>
+      </div>
+    </div>
+  </div>
+  
+  <pre>
+
+	<h1>
+  Name: Leonardo Goncalves
+  Journal: J1013
+  Date: 14-Sep-2022
+
+	</h1>
+
+	<hr>
+
+  I received assistance from: Isaac Rose
+  
+  I assisted: Aditya Sudharshan
+
+
+  1.1 Why is one of the symbols used for exclusive disjunction equal sign with three lines and a ?
+
+  Because for the output to be true, you would need to have the two inputs not equal eachother.
+
+
+  2.1 Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2 to the n?
+
+  The formula is only determined in the number of inputs beacuse it is the inputs that determine the outputs. Because the number of outputs gets increasingly larger.
+
+	
+
+	<hr>
+  
+  What did I learn? What is the "big idea"?
+  The big idea is that Boolean algebra is highly important for computer science.
+  
+  What challenges did I encounter?
+  I had no chalenges
+          
+  How could this experience be improved?
+  This experience could be improved if there was more explanation of the x imples y.
+
+
+  Free Reflection: How has what I've learned affected my thinking?
+  What I learned changes my thinking by making me more sure that I want to work in the computer science industry when I grow up.
+  
+                     
+    </pre>
+  </body>
+</html>
+  

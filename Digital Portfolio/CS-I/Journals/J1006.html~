@@ -1,0 +1,111 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J1006</title>
+    <link rel="stylesheet" href="MY.css">
+  </head>
+   <body>  
+     <div class="navbar">
+       <a href="index.html">Home</a>
+       <a href="CS-I/index.html">CS-I</a>
+       <div class="dropdown">
+	 <button class="dropbtn">CS-I Journals
+	   <i class="fa fa-caret-down"></i>
+	 </button>
+	 <div class="dropdown-content">
+	   <a href="J1002.html">J1002</a>
+	   <a href="J1006.html">J1006</a>
+	   <a href="J1012.html">J1012</a>
+	   <a href="J1013.html">J1013</a>
+	 </div>
+       </div>
+           </div>
+
+
+     <pre>
+
+	<h1>
+  Name: Leonardo Goncalves
+  Journal: J1006
+  Date: 29-Aug-2022
+
+	</h1>
+
+	<hr>
+
+  I received assistance from: Isaac Rose
+  
+  I assisted: Aditya Sudharshan
+
+	1.1 What is Git communicating to you?
+	is communicating that I saved my first changes into a file
+
+	1.2 What do you see that is common between this git log command and the previous git commit?
+	Git log tells us the changes we’ve made with git commit
+
+
+	1.3 Why do you think this is?
+	
+	So the user can look and the changes they’ve made
+
+
+	2.1 What do you notice about file1.txt and file2.txt? How are they displayed in git status?
+
+	File1 is displayed as new changes unsaved and file2 is displayed as a file thaat is not being tracked
+
+
+	2.2 Are they both displayed in the same section? If not, why not?
+
+	No, because they have different status
+
+
+	3.1 What do you notice about file1.txt and file2.txt? How are they displayed in git status?
+
+	They are displayed in the same category, they are both saved and updated
+
+
+	3.2 Compare and contrast the manner in which the two files are displayed.
+
+	They are displayed equally
+
+
+	4.1 How many files are listed as having been changed?
+
+	Two files are listed as changed
+
+
+	4.2 What are the specific differences listed for each file? In what color is the difference displayed?
+
+	On file1 there was the text we added new things, while file2 didn’t. The green text meant new lines of text.
+
+
+	5.1 What does Git tell you has changed? Why?
+
+
+	New lines of text have been added are shown, so the user can know what is new
+	
+
+
+
+	<hr>
+  
+  What did I learn? What is the "big idea"?
+  I learned that git is a highly used service where you can save past bersions of a file.
+
+  What challenges did I encounter?
+  I had no chalenges
+          
+  How could this experience be improved?
+  This experience could be improved if there were nore questions.
+
+
+  Free Reflection: How has what I've learned affected my thinking?
+  What I learned changes my thinking by making me more sure that I want to work in the computer science industry when I grow up.
+  
+                     
+    </pre>
+  </body>
+</html>
+  

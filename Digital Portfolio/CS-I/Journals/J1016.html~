@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J1012</title>
+    <link rel="stylesheet" href="MY.css">
+  </head>
+  <div class="navbar">
+    <a href="../../index.html">Home</a>
+    <a href="../index.html">CS-I</a>
+    <div class="dropdown">
+      <button class="dropbtn">CS-I Journals
+	<i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+	<a href="J1002.html">J1002</a>
+	<a href="J1006.html">J1006</a>
+	<a href="J1012.html">J1012</a>
+	<a href="J1008.html">J1008</a>
+	<a href="J1013.html">J1013</a>
+      </div>
+    </div>
+        </div>
+
+  <body>
+      <pre>
+
+	<h1>
+  Name: Leonardo Goncalves
+  Journal: J1016
+  Date: 10-Sep-2022
+
+	</h1>
+
+	<hr>
+
+  I received assistance from: Isaac Rose
+  
+  I assisted: Aditya Sudharshan
+
+
+
+
+	<a href="https://tinyurl.com/2khfz2jj"> <img src="J1016-Gates.png.png" width="600" height="400"> </a>
+
+	<hr>
+
+
+	
+    </pre>
+  </body>
+</html>
+  
